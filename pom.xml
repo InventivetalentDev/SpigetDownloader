@@ -83,6 +83,13 @@
             <version>4.9</version>
         </dependency>
     </dependencies>
+
+    <repositories>
+        <repository>
+            <id>inventive-repo</id>
+            <url>http://repo.inventivetalent.org/content/groups/public/</url>
+        </repository>
+    </repositories>
          
     <distributionManagement>
         <repository>
